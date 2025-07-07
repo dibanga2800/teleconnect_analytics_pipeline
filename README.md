@@ -1,4 +1,4 @@
-# 📊 Globex Retail Data Analytics
+# 📊 Globex Retail Data Pipeline Analytics
 
 **Tools:** Python, Pandas, Jupyter Notebook, SQL, PostgreSQL (optional), SQLAlchemy
 
